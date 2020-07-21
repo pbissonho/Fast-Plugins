@@ -1,0 +1,9 @@
+name: usecase
+description: Create a flutter page.
+to: lib/
+args:
+  - name
+  - repo
+
+
+    

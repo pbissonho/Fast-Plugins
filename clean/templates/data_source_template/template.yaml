@@ -1,0 +1,9 @@
+name: data
+description: Create a flutter page.
+to: lib/ui/pages/@name
+args:
+  - name
+ 
+
+
+    

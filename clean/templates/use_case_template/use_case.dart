@@ -1,5 +1,5 @@
-class GetConcreteNumberTrivia {
-  final NumberTriviaRepository repository;
+class @Name {
+  final @RepoRepository repository;
 
   GetConcreteNumberTrivia(this.repository);
 
