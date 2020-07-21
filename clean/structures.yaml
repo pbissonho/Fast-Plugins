@@ -1,0 +1,21 @@
+feature:
+  - presentation:
+    - pages
+    - shared 
+    - themes
+  - data:
+    - models
+    - repositories
+    - devices
+    - models
+    - datasources
+  - domain:
+    - usecases
+    - repositories
+    - erros
+    - entities
+    
+test_feature:
+  - presentation:
+  - data:
+  - domain:
