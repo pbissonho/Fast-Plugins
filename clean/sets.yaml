@@ -1,3 +1,11 @@
 core:
-  dio:
-  intl:
+  dep:
+    dio:
+    intl:
+    equatable:
+    dartz:
+    meta:
+  dev:
+    mockito:
+
+  
