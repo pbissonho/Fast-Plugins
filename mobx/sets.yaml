@@ -1,0 +1,6 @@
+mobx:
+  dep:
+    mobx:
+    flutter_mobx:
+  dev:
+     mobx_codegen:
