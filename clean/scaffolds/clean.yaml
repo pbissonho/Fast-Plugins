@@ -1,0 +1,6 @@
+name: clean
+lib_structure: feature
+test_structure: test_feature
+sets: 
+  - core
+

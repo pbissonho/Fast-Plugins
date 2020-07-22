@@ -1,0 +1,9 @@
+dependencies:
+  dio:
+  intl:
+  equatable:
+  dartz:
+  meta:
+
+dev_dependencies:
+  mockito:
